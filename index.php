@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Pagina principal del sitio</h1>
-    <h2>Daniel Santiago Vasquez Duran</h2>
+    <h2>Néstor Jesús Páez Sarmiento</h2>
     <!--Formulario de inicio de sesion-->
     <form action="modelo/loguear.php" method = "post">
         <h2>Iniciar sesión</h2>
